@@ -1,0 +1,6 @@
+
+streamlit
+# mediapipe  # commented out: heavy build on Windows/Py3.14; enable after installing proper wheels or build tools
+opencv-python
+numpy
+Pillow
