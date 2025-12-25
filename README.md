@@ -1,4 +1,4 @@
-# New Year Oracle (pretends)
+# New Year Oracle 
 
 A small, playful Streamlit app that "pretends" to predict your 2026 based on simple face heuristics and randomized storytelling. For entertainment purposes only.
 
